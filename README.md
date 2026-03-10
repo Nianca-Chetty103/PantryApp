@@ -8,3 +8,5 @@ Just an app to help people like me cook meals with things in my kitchen already 
 ## Tech Stack 
 - Android Studio
 - Java programming 
+
+## Preview
